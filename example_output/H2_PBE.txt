@@ -1,0 +1,5 @@
+Harmonic approximation R-squared:    0.991708569578877 
+Harmonic force constant (k):         0.676352245650495 
+Anharmonic approximation R-squared:  0.999956408567181 
+Harmonic force constant (k):         3.88072575424449 
+Anharmonic constant (gamma):         -1.43382136646012
